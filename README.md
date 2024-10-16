@@ -18,7 +18,7 @@ This project contains tests for a simple RESTful API available at [https://restf
 
 1. Clone this repository or download the source code.
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/RuviniRA/restful-api.dev-test>
    ```
 
 2. Navigate to the project directory.
